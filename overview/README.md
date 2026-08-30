@@ -41,7 +41,11 @@ it.
 2. **No layer is production.** By the programme's own definition, quoted above.
 3. **Where a claim is unproven, this portal says unproven** — and keeps *unproven* strictly apart from
    *did not happen*.
-4. **This portal is a skeleton and has not launched.** See [`../STATUS.md`](../STATUS.md).
+4. **This portal is published and deliberately partial, and its current release is closed.** Every
+   absence is stated and gives its reason. Closing that release did not freeze C2.10, did not create a
+   production ceremony, and did not make anything externally audited — **C2.10 SEALED — NOT FROZEN;
+   production ceremony and further external validation are planned for a future phase.** See
+   [`../STATUS.md`](../STATUS.md).
 
 ## What is genuinely strong here
 

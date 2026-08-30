@@ -1,17 +1,21 @@
 # R-Series Portal
 
-**This repository is a skeleton under construction. It is not yet a published claim surface.**
+**This portal is published. It is a deliberately partial claim surface, and it names where it is partial.**
 
-Nothing here should be read as a finished statement of what the R-Series is or does. The structure
-exists; most of the content does not, and the places where content is missing say so by name rather
-than filling the gap with a plausible sentence.
+Nothing here should be read as a finished statement of what the R-Series is or does. Content is
+published where evidence supports it; where it does not, the page says so by name rather than filling
+the gap with a plausible sentence. **A section marked absent is a statement, not a gap awaiting text.**
 
 - **Publication date of this state:** 2026-08-30
-- **Status:** SKELETON — launch gated
-- **Launch gate:** the P0 register in [`STATUS.md`](STATUS.md). **Of nine P0 items, four are CLOSED and
-  five remain OPEN** as of 2026-08-30 — every remaining one a correction to the live website or the
-  issued document set, none of them to this repository. Until all nine
-  close, this portal does not launch and its pages must not be cited as the R-Series public record.
+- **Status:** PUBLISHED — current release closed
+- **Release record:** the P0 register in [`STATUS.md`](STATUS.md). **All nine P0 publication items are
+  CLOSED — applied and in effect** as at 2026-08-30, each re-verified against the live surface on that
+  date rather than carried forward from the register. The launch gate that previously held this portal
+  is discharged.
+- **What closing this release does not do.** It does not freeze C2.10, does not create a production
+  ceremony, and does not make any part of the R-Series externally audited. **C2.10 SEALED — NOT FROZEN.
+  Production ceremony and further external validation are planned for a future phase.** Future-phase
+  work is recorded as roadmap in [`roadmap/`](roadmap/README.md) and is not a claim of delivery.
 
 ---
 
@@ -52,14 +56,14 @@ Those repositories keep their history unchanged. This portal links to them; it d
 | [`overview/`](overview/README.md) | Written |
 | [`architecture/`](architecture/README.md) | Written — publication architecture only |
 | [`standards/`](standards/README.md) | Written — pointers to the public repositories |
-| [`layers/`](layers/README.md) | R+2 and R+3 written · R+4 gated on P0-8 · **[R+5 → R+12 status](layers/STATUS_R5_R12.md)** written |
+| [`layers/`](layers/README.md) | R+2, R+3 and R+4 written — R+4 un-gated when P0-8 closed · **[R+5 → R+12 status](layers/STATUS_R5_R12.md)** written |
 | [`verification/`](verification/README.md) | Written — what a third party can check today |
 | [`conformance/`](conformance/README.md) | Written — pointer |
 | [`test-vectors/`](test-vectors/README.md) | Written — pointer |
-| [`cryptographic-evidence/`](cryptographic-evidence/README.md) | **Placeholder** — gated on P0-3 and P0-6 |
-| [`evidence/long-duration/`](evidence/long-duration/README.md) | **No figure published** — gated on P0-4 |
+| [`cryptographic-evidence/`](cryptographic-evidence/README.md) | **No figure published.** The P0-3 and P0-6 corrections are applied and live; this section publishes harnesses, and those are future-phase work |
+| [`evidence/long-duration/`](evidence/long-duration/README.md) | **No figure published.** Prior results withdrawn and the withdrawal is in effect; the re-run is future-phase work |
 | [`history/`](history/README.md) | Written — the May 2026 ceremony, preserved exactly |
-| [`receipts/`](receipts/README.md) | **Placeholder** — gated on P1-7 |
+| [`receipts/`](receipts/README.md) | **No receipts published.** The five R+3 bundle receipts are future-phase work |
 | [`security/`](security/README.md) | Written |
 | [`roadmap/`](roadmap/README.md) | Written — sequence only, no delivery badges |
 | [`external-audit/`](external-audit/README.md) | **Empty, by design** |
@@ -78,9 +82,9 @@ result, a **run date and a publication date printed separately**.
 | **Third-party material** — anything DCS AI Technologies L.L.C did not author, including the verbatim ceremony transcript in [`history/`](history/README.md) | **Excluded from both grants** unless separately and explicitly licensed where it appears |
 
 Neither licence is an assurance claim. A permissive licence grants reuse rights; it does not confer
-verification status, and **nothing in the R-Series has been externally audited**. This portal remains
-a skeleton under construction — reusing a gated or placeholder page does not make its content a
-published claim.
+verification status, and **nothing in the R-Series has been externally audited**. This portal is
+deliberately partial — reusing a page that states an absence does not convert that absence into a
+published figure.
 
 ## Provenance of this repository
 
