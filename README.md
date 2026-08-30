@@ -8,8 +8,9 @@ than filling the gap with a plausible sentence.
 
 - **Publication date of this state:** 2026-08-30
 - **Status:** SKELETON — launch gated
-- **Launch gate:** the P0 register in [`STATUS.md`](STATUS.md). **Of nine P0 items, two are CLOSED and
-  seven remain OPEN** as of 2026-08-30 — one of the seven with its first half closed. Until all nine
+- **Launch gate:** the P0 register in [`STATUS.md`](STATUS.md). **Of nine P0 items, four are CLOSED and
+  five remain OPEN** as of 2026-08-30 — every remaining one a correction to the live website or the
+  issued document set, none of them to this repository. Until all nine
   close, this portal does not launch and its pages must not be cited as the R-Series public record.
 
 ---

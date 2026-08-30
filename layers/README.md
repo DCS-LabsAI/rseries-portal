@@ -8,7 +8,7 @@
 |---|---|---|
 | R+2 — Receipts | [`r2.md`](r2.md) | Written |
 | R+3 — Audit export | [`r3.md`](r3.md) | Written |
-| R+4 — Zero-knowledge verification | [`r4.md`](r4.md) | **ABSENT — GATED** on P0-8 |
+| R+4 — Zero-knowledge verification | [`r4.md`](r4.md) | **PUBLISHED** — status and errata only. Repaired-circuit internals are never published |
 | R+5 → R+12 | [`STATUS_R5_R12.md`](STATUS_R5_R12.md) | Written — five fields per layer |
 
 ## There are no per-layer nodes for R+6 onward

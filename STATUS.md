@@ -17,7 +17,7 @@ printed with a caveat.
 
 ## The P0 register
 
-**Population: nine items. Two CLOSED, seven OPEN**, one of the seven with its first half closed.
+**Population: nine items. Four CLOSED, five OPEN.** All five remaining are corrections to surfaces outside this repository — the live website and the issued document set.
 State as at **2026-08-30**; each row's state was re-verified on that date, not carried forward.
 
 **"CLOSED" here means applied and in effect — not drafted.** Remediation that exists only on an
@@ -26,14 +26,14 @@ writing; a correction that is green in a branch has not corrected anything a rea
 
 | Gate | What it blocks in this portal | State |
 |---|---|---|
-| **P0-1** | Credential-handling verification on a private repository. Blocks nothing in this portal directly; it blocks the whole publication sequence. | **OPEN — first half closed.** The rotated credential is verified **refused**. The complementary arm, that a current credential is *accepted*, needs a credential this portal's authors do not hold and is not counted as closed |
+| **P0-1** | Credential-handling verification on a private repository. Blocks nothing in this portal directly; it blocks the whole publication sequence. | **CLOSED 2026-08-30 — both arms.** The rotated credential is verified **refused**; a current credential is verified **accepted**. The second arm mattered: the host answers a mismatch with the same status it uses for an unknown route, so the refusal alone could not distinguish a gate that rejects a dead credential from one that rejects everything. The control is now proven able to fail in both directions |
 | **P0-2** | A full-history secret scan, with archives opened, of a private repository that had never been scanned. Same. | **CLOSED 2026-08-30.** History, working tree, all archives expanded recursively to a fixed point, and the embedded repository's object store scanned blob by blob. The scanning ruleset was itself found defective twice and repaired both times |
 | **P0-3** | The adversarial-suite figure and its oracle correction. Blocks [`cryptographic-evidence/`](cryptographic-evidence/README.md). | **OPEN.** Corrected text prepared; the live page still carries the original figure |
 | **P0-4** | Long-duration ("soak") results. **No soak figure is published anywhere in this portal.** Blocks [`evidence/long-duration/`](evidence/long-duration/README.md). | **OPEN.** Satisfied *within this portal* by construction — no figure is printed. Elsewhere the withdrawal is not complete: a **sixth** aggregating document was found on 2026-08-30 that no prior list named, and it is the most prominent of the set |
 | **P0-5** | Removal of *audited* language and of references to an unpublished package scope from the live web surface. Nothing in this portal uses either. | **OPEN (elsewhere).** Replacement text prepared. The scope of the phantom package references was found to be an order of magnitude wider than first recorded |
 | **P0-6** | Post-quantum wording corrections in the document set. Blocks every cryptographic figure in [`cryptographic-evidence/`](cryptographic-evidence/README.md). | **OPEN.** Corrected in one source location; the issued document set has not been re-issued |
 | **P0-7** | Evidence-record linking, population labelling and date labelling on the live evidence page. Blocks this portal from citing that record. | **OPEN.** No figure changed; the labelling has not been applied to the live page |
-| **P0-8** | Historical banner and defect erratum on the public R+4 repository. **Blocks [`layers/r4.md`](layers/r4.md).** | **OPEN — awaiting merge.** The banner and the erratum are written and reviewed, on a branch that is not merged. Until it merges, the public repository carries neither |
+| **P0-8** | Historical banner and defect erratum on the public R+4 repository. **Formerly blocked [`layers/r4.md`](layers/r4.md).** | **CLOSED 2026-08-30 — merged and in effect.** The public repository now carries the historical banner above its first line and the defect erratum beside it, and the two attack-proof artefacts are withheld. [`layers/r4.md`](layers/r4.md) was written on that basis and is no longer gated |
 | **P0-9** | A private archive repository stays private. No delete-and-flip. | **CLOSED — verified private on 2026-08-30**, by query rather than assumption, and nothing about it was changed. It remains a **standing** requirement: it stays private permanently, and reopening it would reopen this gate |
 
 ## What is deliberately absent, and under which gate
@@ -44,7 +44,7 @@ writing; a correction that is green in a branch has not corrected anything a rea
 | Any long-duration / soak duration, cycle count, uptime figure or pass verdict | P0-4 |
 | Any post-quantum conformance or validation figure | P0-6 |
 | Any citation of the reference-core evidence record, and any population or date drawn from it | P0-7 |
-| Any description of R+4 as a layer, beyond the preserved ceremony history | P0-8 |
+| ~~Any description of R+4 as a layer, beyond the preserved ceremony history~~ | ~~P0-8~~ — **un-gated 2026-08-30**; [`layers/r4.md`](layers/r4.md) now carries hash, constraint count, status and errata only |
 | Any external-audit content | No external audit has occurred. Indefinite. |
 | Any exploit detail, proof artefact or repaired-circuit internal | Indefinite, by policy |
 | Any package name or installation instruction | Canonical-scope decision, open |
