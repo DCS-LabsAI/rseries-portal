@@ -67,9 +67,18 @@ result, a **run date and a publication date printed separately**.
 
 ## Licensing of this portal's content
 
-Deliberately unset. The three public standard repositories each carry their own `LICENSE`. A licence
-for this portal's newly-written content is a rights-holder decision that is open (P1-2) and is not
-made here. Until it is made, no licence is granted by the absence of one.
+**Dual-licensed by material type**, decided by the rights holder on 2026-08-30. See [`LICENSE`](LICENSE).
+
+| Material | Licence |
+|---|---|
+| Documentation authored by DCS AI Technologies L.L.C — prose, tables, diagrams, status pages, specifications | **CC BY 4.0** ([`LICENSE-DOCS`](LICENSE-DOCS)) |
+| Code, scripts, configuration and examples authored by DCS AI Technologies L.L.C | **MIT** ([`LICENSE-MIT`](LICENSE-MIT)) |
+| **Third-party material** — anything DCS AI Technologies L.L.C did not author, including the verbatim ceremony transcript in [`history/`](history/README.md) | **Excluded from both grants** unless separately and explicitly licensed where it appears |
+
+Neither licence is an assurance claim. A permissive licence grants reuse rights; it does not confer
+verification status, and **nothing in the R-Series has been externally audited**. This portal remains
+a skeleton under construction — reusing a gated or placeholder page does not make its content a
+published claim.
 
 ## Provenance of this repository
 

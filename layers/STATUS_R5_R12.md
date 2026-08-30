@@ -73,7 +73,7 @@ R-Series layer has been performed.
 | Field | Statement |
 |---|---|
 | **Purpose** | **No publishable statement.** |
-| **Current maturity / status** | The 30 August 2026 internal reconciliation found this layer's claim **unsubstantiated in both public and private scope** — the only claim in that review that failed in both directions — and directed that it be **omitted from this portal**. It is listed here so that the numbering has no silent gap, and for no other reason. |
+| **Current maturity / status** | **UNSUBSTANTIATED — NOT CARRIED.** Locked as a rights-holder decision on 2026-08-30, pending evidence reconciliation. The 30 August 2026 internal reconciliation found this layer's claim **unsubstantiated in both public and private scope** — the only claim in that review that failed in both directions. R+9 is therefore not carried as a published R-Series layer. It is listed here so that the numbering has no silent gap, and for no other reason. The decision is revisited only if an evidence reconciliation produces evidence; it is not revisited by re-asserting the claim. |
 | **Source** | Not applicable. Nothing is published, and nothing is asserted. |
 | **Public evidence available** | **None.** Classification: **UNPROVEN** — evidence not located. This is not a statement that the work did not happen; it is a statement that no evidence supporting the layer as a layer was located in either scope. |
 | **Next milestone** | **Unpublished.** This layer is not carried as a published R-Series layer, and no milestone is claimed for it. Any future publication would start from evidence, not from the existing claim. |

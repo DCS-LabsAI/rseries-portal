@@ -1,0 +1,39 @@
+# Documentation licence — CC BY 4.0
+
+Copyright (c) 2026 DCS AI Technologies L.L.C
+
+The documentation in this repository authored by DCS AI Technologies L.L.C — prose, tables,
+diagrams, status pages and specifications — is licensed under the
+
+**Creative Commons Attribution 4.0 International Public License (CC BY 4.0)**
+
+- Full legal code (authoritative): <https://creativecommons.org/licenses/by/4.0/legalcode>
+- Human-readable summary (not a substitute for the licence): <https://creativecommons.org/licenses/by/4.0/>
+
+By exercising any right granted here you accept the terms of that legal code, which governs in full.
+
+## Attribution
+
+Attribute as:
+
+> "R-Series Portal" by DCS AI Technologies L.L.C, licensed CC BY 4.0.
+> Source: https://github.com/DCS-LabsAI/rseries-portal
+
+State whether you changed the material. Attribution must not suggest that DCS AI Technologies L.L.C
+endorses you or your use.
+
+## Two limits worth stating explicitly
+
+**Adapted material must not be presented as the R-Series record.** CC BY 4.0 permits adaptation; it
+does not permit misrepresenting an adaptation as the authoritative statement of what the R-Series is,
+or as evidence issued by DCS AI Technologies L.L.C.
+
+**This licence is not an assurance claim.** Nothing in the R-Series has been externally audited, and
+several pages here are deliberately blank pending the P0 register in `STATUS.md`. Reuse grants you
+rights in the text; it does not transfer any verification status to it, because there is none to
+transfer.
+
+## Not covered
+
+Code and examples (MIT — see `LICENSE-MIT`), and all third-party material, which is excluded from
+this grant unless separately licensed where it appears. See `LICENSE`.

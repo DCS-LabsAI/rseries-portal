@@ -1,0 +1,61 @@
+# Licensing — R-Series Portal
+
+Copyright (c) 2026 DCS AI Technologies L.L.C
+
+This repository is **dual-licensed by material type**. Which licence applies depends on what
+the file is, not on where it sits in the tree.
+
+## 1 · Documentation authored by DCS AI Technologies L.L.C — CC BY 4.0
+
+All prose, tables, diagrams, status pages and specifications written by DCS AI Technologies L.L.C
+and published here are licensed under the
+
+**Creative Commons Attribution 4.0 International licence (CC BY 4.0)**
+Full legal code: <https://creativecommons.org/licenses/by/4.0/legalcode>
+Summary: <https://creativecommons.org/licenses/by/4.0/>
+
+See [`LICENSE-DOCS`](LICENSE-DOCS).
+
+You may share and adapt this documentation, including commercially, provided you give appropriate
+credit, link to the licence, and indicate whether changes were made. **Attribution must not imply
+that DCS AI Technologies L.L.C endorses you or your use**, and — see §3 — must not represent
+adapted material as the R-Series record.
+
+## 2 · Code and examples authored by DCS AI Technologies L.L.C — MIT
+
+All source code, scripts, configuration and example snippets written by DCS AI Technologies L.L.C
+and published here are licensed under the **MIT licence**. See [`LICENSE-MIT`](LICENSE-MIT).
+
+This matches the three public standard repositories (`r2-standard`, `r3-standard`, `r4-standard`),
+each of which carries its own MIT `LICENSE`. Those repositories are **not** relicensed by this file.
+
+## 3 · Third-party material — EXCLUDED
+
+**No licence is granted here for any material DCS AI Technologies L.L.C did not author.**
+Third-party material is excluded from both grants above unless it is separately and explicitly
+licensed at the point where it appears.
+
+This exclusion covers, without limiting its scope:
+
+- material reproduced verbatim from another source, including the May 2026 ceremony transcript
+  reproduced in [`history/`](history/), which is governed by the licence of the repository it was
+  taken from and not by this file;
+- any third-party specification, standard, trademark, name or logo referred to;
+- any dependency, library or vendored component;
+- any external evidence, report or attestation authored by a party other than
+  DCS AI Technologies L.L.C.
+
+Where such material appears, its own licence and its own attribution requirements govern. If you
+cannot determine the licence of a specific file, **treat it as excluded and ask before reusing it.**
+
+## 4 · What no licence grants
+
+Neither licence above is a warranty, a certification, or a statement of fitness. In particular:
+
+- **Nothing in the R-Series has been externally audited.** A permissive licence is not an assurance
+  claim, and reuse under it is not evidence that anything here has been independently reviewed.
+- This portal is a **skeleton under construction and is not a released claim surface**. Content is
+  gated on the P0 register in [`STATUS.md`](STATUS.md). Reusing a gated or placeholder page does not
+  make its content a published DCS AI Technologies L.L.C claim.
+- Neither licence grants any right in the **DCS**, **DCS Labs**, **DCS AI Technologies** or
+  **R-Series** names or marks beyond the attribution CC BY 4.0 requires.
