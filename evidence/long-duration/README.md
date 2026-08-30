@@ -19,6 +19,13 @@ evidence of success, and a result gated by one carries no assurance.
 runs are not asserted to have not happened, and no claim is made in either direction about what a
 correct re-run would show.
 
+**The withdrawal covers derived and aggregated documents, not only the per-run ones.** A later review
+found a summary document that combines all five runs onto one page, carries a portfolio-level pass
+verdict none of the individual runs claimed, and states aggregate totals that appear in no run record
+and are arithmetically composed of the withdrawn figures. **An aggregate of withdrawn numbers is a
+withdrawn number.** No such total, verdict or derived figure is published here or anywhere in this
+portal, and none will be until step 3 below is satisfied for each run it would be built from.
+
 ## What has to happen before anything appears here
 
 1. The controls that could not report failure are fixed in code, and a completeness gate is added so
