@@ -1,7 +1,8 @@
 # Receipts
 
-- **Classification:** ABSENT — GATED
-- **Gate:** publication of the five R+3 bundle receipts
+- **Classification:** ABSENT — future phase
+- **Outstanding work:** publication of the five R+3 bundle receipts. **Not a P0, and not a blocker on
+  the current release** — it is roadmap, and it carries no date
 - **Publication date of this page:** 2026-08-30
 
 ## No receipts are published in this portal yet

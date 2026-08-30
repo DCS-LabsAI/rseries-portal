@@ -29,11 +29,11 @@ future addition has to argue its way in rather than slip in beside a similar fil
 | Internals of any repaired circuit | Same |
 | Internal self-assessments and their verdict strings | An internal review is not an external finding, and a document that reads like a certificate will be read as one |
 | Raw scan output containing matched secret material | Publishing the finding requires publishing the secret |
-| Long-duration figures | Gated on P0-4. **No soak figure appears anywhere in this repository** |
-| Adversarial-suite figures | Gated on P0-3 |
-| Post-quantum figures | Gated on P0-6 |
-| Any citation of the reference-core evidence record | Gated on P0-7 |
-| Any description of R+4 as a layer | Gated on P0-8. The ceremony *history* is separately cleared and is published |
+| Long-duration figures | P0-4 closed; the withdrawal is in effect across all six documents. **No soak figure appears anywhere in this repository**, and none will before the re-run publishes its original artefacts |
+| Adversarial-suite figures | P0-3 closed; the corrected figure is published on the live evidence page with its erratum. Excluded **here** by the harness-first standard in [`cryptographic-evidence/README.md`](cryptographic-evidence/README.md) — a number without its runnable check is not published in this portal |
+| Post-quantum figures | P0-6 closed; the corrected wording is live. Excluded here by the same harness-first standard |
+| Any citation of the reference-core evidence record | P0-7 closed; the live record is linked, its populations named and its three dates printed separately. Cited here only alongside the harness that reproduces it — future-phase |
+| ~~Any description of R+4 as a layer~~ | **No longer excluded.** P0-8 closed and [`layers/r4.md`](layers/r4.md) is published — hash, constraint count, status and errata only. Repaired-circuit internals stay excluded, indefinitely |
 | Package names and installation instructions | No canonical scope is fixed. See [`security/README.md`](security/README.md) |
 | Embargoed specifications and any material behind unsigned agreements | Self-evident |
 | Ceremony key material and large binaries | Not excluded on safety grounds — excluded from **git**. They belong in release assets with a manifest. See [`architecture/README.md`](architecture/README.md) |

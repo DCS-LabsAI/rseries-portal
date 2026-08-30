@@ -7,8 +7,8 @@ date and publication date separately**.
 
 | Section | State |
 |---|---|
-| [`long-duration/`](long-duration/README.md) | **No figure published.** Prior results withdrawn pending re-run. Gated on P0-4 |
-| [`../cryptographic-evidence/`](../cryptographic-evidence/README.md) | **Placeholder.** Gated on P0-3 and P0-6 |
+| [`long-duration/`](long-duration/README.md) | **No figure published.** Withdrawal complete and in effect across all six documents (P0-4 closed). The re-run is future-phase |
+| [`../cryptographic-evidence/`](../cryptographic-evidence/README.md) | **No figure published.** P0-3 and P0-6 closed and their corrections are live; this section publishes harnesses, which are future-phase |
 | [`../verification/`](../verification/README.md) | Written — what a third party can check today, and what it cannot |
 | [`../external-audit/`](../external-audit/README.md) | **Empty by design.** No external audit has occurred |
 

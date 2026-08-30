@@ -11,7 +11,9 @@ date** and its **publication date** separately. The two are not the same date an
 | **INTERNAL-ONLY** | Not published in any form. No figure, no record. |
 | **WITHDRAWN** | Previously stated, now withdrawn. The reason is named on the page. |
 | **UNPROVEN** | No evidence has been located. Distinct from *did not happen* — this portal keeps those two apart everywhere. |
-| **ABSENT — GATED** | Deliberately not published until a named gate in [`STATUS.md`](STATUS.md) closes. The gate is named on the page. |
+| **ABSENT — by publication standard** | Deliberately not published, because publishing it would breach a standard this portal holds to — most often the rule that a figure appears only with the harness that produced it. The reason is named on the page. |
+| **ABSENT — future phase** | Deliberately not published because the work that would produce it has not been done. Named on the page and recorded in [`roadmap/`](roadmap/README.md), with no date attached. **This is not a held release.** |
+| **ABSENT — GATED** | *Retained so older references still read.* Deliberately not published until a named gate in [`STATUS.md`](STATUS.md) closed. **All nine P0 gates closed on 2026-08-30**, so no page in this portal now carries this label. |
 
 ## How to read a number in this portal
 

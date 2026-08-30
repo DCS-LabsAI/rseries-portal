@@ -2,7 +2,16 @@
 
 - **Classification:** WITHDRAWN
 - **Publication date of this page:** 2026-08-30
-- **Gate:** P0-4 ([`../../STATUS.md`](../../STATUS.md))
+- **Former gate:** P0-4 — **CLOSED 2026-08-30** ([`../../STATUS.md`](../../STATUS.md))
+
+**The withdrawal is complete and in effect.** It covers **all six soak evidence documents**, including
+the aggregating document found on 30 August 2026 that no prior list named. The public notice is served
+on the live evidence surface, every affected card carries a WITHDRAWN marker beside the figure as it
+was originally published, and **every original document is preserved unchanged**.
+
+**Closing that gate did not produce a figure, and was never going to.** The gate was the withdrawal.
+The re-run is a separate matter, it has not happened, and it is future-phase work — see below. **No
+corrected soak figure is published here or anywhere.**
 
 ## No original artefacts are published, and no figure is published
 
@@ -26,7 +35,10 @@ and are arithmetically composed of the withdrawn figures. **An aggregate of with
 withdrawn number.** No such total, verdict or derived figure is published here or anywhere in this
 portal, and none will be until step 3 below is satisfied for each run it would be built from.
 
-## What has to happen before anything appears here
+## What has to happen before anything appears here — future phase
+
+**None of the three steps below has been performed.** They are recorded as roadmap, they carry no
+date, and they do not hold the current release open.
 
 1. The controls that could not report failure are fixed in code, and a completeness gate is added so
    that a run which did not finish cannot be recorded as one that did.
